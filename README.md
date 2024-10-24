@@ -1,6 +1,6 @@
-# Course Learning App
+# CertifAI - The AI-Powered Course Learning App
 
-Welcome to the **Course Learning App**, a modern and interactive platform designed for users to access educational content, manage their learning journey, and engage with others. This app enables users to subscribe to courses, make payments, connect with friends, and receive important notifications—all within an intuitive and easy-to-navigate interface.
+Welcome to **CertifAI**, a modern and interactive platform designed for users to access educational content, manage their learning journey, and engage with others. CertifAI enables users to subscribe to courses, make payments, connect with friends, and receive important notifications—all within an intuitive and AI-enhanced interface.
 
 ## Features
 
