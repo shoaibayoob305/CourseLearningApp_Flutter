@@ -28,6 +28,16 @@ Welcome to the **Course Learning App**, a modern and interactive platform design
 - **Account and Settings**  
   Customize your profile, preferences, and app settings in the dedicated account section.
 
+## Tech Stack
+
+- **Flutter**: The UI framework used to build cross-platform mobile apps.
+- **Dart**: The programming language used for Flutter development.
+- **Firebase**: Backend services for authentication, analytics, and data storage.
+- **SquareUp API**: Integrated payment gateway for handling purchases and subscriptions.
+- **GetX**: A lightweight state management solution to handle app state and logic.
+- **Masonry Layout**: A custom layout feature for displaying dynamic content grids.
+- **Email Validator**: Used for ensuring valid email format during user registration.
+
 ## Get Started
 
 Clone this repository and get started with your own learning platform. Contributions and feedback are welcome!
